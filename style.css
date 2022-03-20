@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@300 & display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    background-color: #373737;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 20px;
+    color: #f9f9f9;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    position: relative;
+}
+
+#form {
+    position: relative;
+}
+
+#form #email {
+    width: 300px;
+    background: #292929;
+    outline: none;
+    border: none;
+    padding: 10px;
+border-radius: 6px;
+color: #fff;
+font-style: 18px;
+}
+
+#form .inputBox{
+position: relative;
+}
