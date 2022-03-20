@@ -1,7 +1,7 @@
 function validate() {
     let form = document.querySelector("#form")
     let email = document.querySelector("#email").value
-    let text = document.querySelector("#text")
+    let text = document.querySelector(".text")
 
     let pattern = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;
 
