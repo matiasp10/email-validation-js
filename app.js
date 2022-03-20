@@ -18,7 +18,7 @@ function validate() {
         text.style.color = "#ff0000"
     }
 
-    if (email == "") {
+    if (email == " ") {
         form.classList.remove("valid")
         form.classList.remove("invalid")
         text.innerHTML = ""
