@@ -1,2 +1,2 @@
-# form-validation-js
-Validacion de formulario en JavaScript Vanilla
+# email-validation-js
+Validacion de Email en JavaScript Vanilla
